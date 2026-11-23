@@ -1,0 +1,1 @@
+Create a simple application with at least two packages: Packages.Geometry and Packages.Utils. In the Geometry package, define classes like Circle and Rectangle. In the Utils package, create a Calculator class that can compute areas of the shapes.
