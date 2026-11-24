@@ -8,9 +8,9 @@ A structured collection of 100+ Java practice solutions and exercises covering c
 - `02-loops-patterns-and-number-logic/` — Pattern printing, number properties, factorials, series, GCD/LCM, and interactive loop exercises
 - `03-arrays-strings-and-algorithms/` — 1D and 2D array operations, string manipulation and builders, recursion, and sorting
 - `04-oop-classes-and-packages/` — Methods, overloading and overriding, abstract classes, interfaces, packages, and multi-file class exercises
-- `05-enums-exceptions-and-file-io/` — Enums, exception handling, `Optional`, and file reading exercises
+- `05-enums-exceptions-and-file-io/` — Enums, exception handling, Optional, and file reading exercises
 - `06-collections-streams-and-functional/` — Collections, custom comparators, priority queues, functional interfaces, lambdas, and Stream API pipelines
-- `07-multithreading-and-concurrency/` — Threads, synchronization, signaling, and executor services (`Callable` and `Future`)
+- `07-multithreading-and-concurrency/` — Threads, synchronization, signaling, and executor services (Callable and Future)
 
 ## Prerequisites
 
